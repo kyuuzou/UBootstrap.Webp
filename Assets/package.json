@@ -1,0 +1,8 @@
+{
+  "name": "uboostrap-webp",
+  "version": "0.0.3",
+  "description": "Provide webp support for your Unity project",
+  "displayName": "WebP support",
+  "author": "Ha.Minh",
+  "license": "MIT"
+}

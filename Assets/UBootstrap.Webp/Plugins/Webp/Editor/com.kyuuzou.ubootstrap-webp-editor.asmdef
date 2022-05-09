@@ -1,0 +1,18 @@
+{
+    "name": "com.kyuuzou.ubootstrap-webp-editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:651ae9ab1029d40228459a8629198bbb"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
